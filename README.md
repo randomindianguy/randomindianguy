@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sidharth Sundaram</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A Product Person</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randomindianguy&label=Profile%20views&color=0e75b6&style=flat" alt="randomindianguy" /> </p>
 
-- 🔭 I’m currently working on [Spring](https://github.com/randomindianguy/javascriptprojects)
+- Currently explorting AI tools to make my dream projects come true :)
+  
+- I regularly write articles on [https://sidharth-sundaram.beehiiv.com/](url)
 
-- 🌱 I’m currently learning **Java Stack**
-
-- 🤝 I’m looking for help with [Backend Development](https://github.com/randomindianguy/CRUDAPI-1)
-
-- 📝 I regularly write articles on [https://sidharthsundaram.wordpress.com/](https://sidharthsundaram.wordpress.com/)
-
-- 📫 How to reach me **sidharth.rama@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1B7I08cmz7y9IfQaDOk41WWYCTvaZgo9J?usp=sharing](https://drive.google.com/drive/folders/1B7I08cmz7y9IfQaDOk41WWYCTvaZgo9J?usp=sharing)
-
-- ⚡ Fun fact **Brittney Spears' Toxic has a Lata Mangeshkar sample in it :)**
+- 📫 How to reach me **sidharth(dot)rama(at)gmail(dot)com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
