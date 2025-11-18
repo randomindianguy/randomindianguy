@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randomindianguy&label=Profile%20views&color=0e75b6&style=flat" alt="randomindianguy" /> </p>
 
-- Currently explorting AI tools to make my dream projects come true :)
+- Currently exploring AI tools to make my dream projects come true :)
   
 - I regularly write articles on [https://sidharth-sundaram.beehiiv.com/](url)
 
