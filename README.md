@@ -5,7 +5,7 @@
 
 - Currently exploring AI tools to make my dream projects come true :)
 
-- 📫 How to reach me **sidharth(dot)rama(at)gmail(dot)com**
+- 📫 How to reach me hello@sidharthsundaram.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
