@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sidharth Sundaram</h1>
-<h3 align="center">A Product Person</h3>
+<h3 align="center">Product Manager · 4 years B2B SaaS · Now building AI products</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randomindianguy&label=Profile%20views&color=0e75b6&style=flat" alt="randomindianguy" /> </p>
 
-- Currently exploring AI tools to make my dream projects come true :)
+Product Manager exploring AI-native work. 4 years in B2B SaaS, currently shipping AI products and writing about what I'm learning. Recent project: [Cleared]([url](https://admin-diagnosis-agent.vercel.app/)), an AI agent for workspace access triage. 
 
-- 📫 How to reach me hello@sidharthsundaram.com
+Currently working on agentic code reviews. 
+
+- 📫 How to reach me [hello@sidharthsundaram.com](url)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
