@@ -7,7 +7,7 @@ Product Manager exploring AI-native work. 4 years in B2B SaaS, currently shippin
 
 Currently working on agentic code reviews. 
 
-- 📫 How to reach me [hello@sidharthsundaram.com](url)
+How to reach me [hello@sidharthsundaram.com](url)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
